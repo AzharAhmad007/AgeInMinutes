@@ -1,0 +1,2 @@
+azhar/ahmad19/ageinminutes/BuildConfig.java
+ azhar.ahmad19.ageinminutes.BuildConfig
